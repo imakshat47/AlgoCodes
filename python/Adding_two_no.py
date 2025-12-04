@@ -3,7 +3,7 @@ class Node:
         self.data = val
         self.next = None
 
-# function to reverse the linked list
+
 def reverse(head):
     prev = None
     curr = head
